@@ -26,7 +26,7 @@ var json = File.ReadAllText("emp.json");
 var options = new JsonSerializerOptions
 {
     PropertyNameCaseInsensitive = true,
-}
+};
 var des = JsonSerializer.Deserialize<List<Employee>>(json);
 
 foreach(var item in des)

@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "JWTPractice.Controllers.GenerateTokenController",
+    "Method": "Get",
+    "RelativePath": "api/GenerateToken",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTPractice.Controllers.ProtectedController",
+    "Method": "Get",
+    "RelativePath": "api/Protected",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
