@@ -1,0 +1,15 @@
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\bin\Debug\net8.0\PracticeCSharp.exe
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\bin\Debug\net8.0\PracticeCSharp.deps.json
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\bin\Debug\net8.0\PracticeCSharp.runtimeconfig.json
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\bin\Debug\net8.0\PracticeCSharp.dll
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\bin\Debug\net8.0\PracticeCSharp.pdb
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.AssemblyInfoInputs.cache
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.AssemblyInfo.cs
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.sourcelink.json
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.dll
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\refint\PracticeCSharp.dll
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.pdb
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\PracticeCSharp.genruntimeconfig.cache
+C:\Users\sudha\OneDrive\Documents\GitHub\CSharpPractice\PracticeCSharp\obj\Debug\net8.0\ref\PracticeCSharp.dll

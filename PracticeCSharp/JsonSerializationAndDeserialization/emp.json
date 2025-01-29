@@ -1,0 +1,52 @@
+[
+  {
+    "S EmployeeName": "Sudhar",
+    "S EmployeeSalary": "1000",
+    "Address Details": {
+      "S EmployeeStreet": "1, Main Road",
+      "S EmployeeDistrict": "Villupuram",
+      "S EmployeeState": "Tamil Nadu",
+      "S EmployeePinCode": "604304"
+    }
+  },
+  {
+    "S EmployeeName": "Ravi",
+    "S EmployeeSalary": "2000",
+    "Address Details": {
+      "S EmployeeStreet": "12, Gandhi Street",
+      "S EmployeeDistrict": "Chennai",
+      "S EmployeeState": "Tamil Nadu",
+      "S EmployeePinCode": "600001"
+    }
+  },
+  {
+    "S EmployeeName": "Priya",
+    "S EmployeeSalary": "1500",
+    "Address Details": {
+      "S EmployeeStreet": "45, Anna Nagar",
+      "S EmployeeDistrict": "Coimbatore",
+      "S EmployeeState": "Tamil Nadu",
+      "S EmployeePinCode": "641001"
+    }
+  },
+  {
+    "S EmployeeName": "Karthik",
+    "S EmployeeSalary": "2500",
+    "Address Details": {
+      "S EmployeeStreet": "23, MG Road",
+      "S EmployeeDistrict": "Madurai",
+      "S EmployeeState": "Tamil Nadu",
+      "S EmployeePinCode": "625002"
+    }
+  },
+  {
+    "S EmployeeName": "Anitha",
+    "S EmployeeSalary": "1800",
+    "Address Details": {
+      "S EmployeeStreet": "78, Poonamallee High Road",
+      "S EmployeeDistrict": "Trichy",
+      "S EmployeeState": "Tamil Nadu",
+      "S EmployeePinCode": "620008"
+    }
+  }
+]
