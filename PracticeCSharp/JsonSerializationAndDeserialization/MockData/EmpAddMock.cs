@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static PracticeCSharp.JsonSerializationAndDeserialization.Enums;
 
 namespace PracticeCSharp.JsonSerializationAndDeserialization.MockData
 {
@@ -19,6 +20,7 @@ namespace PracticeCSharp.JsonSerializationAndDeserialization.MockData
             EmployeeId = 1,
             EmployeeName = "Sudhar",
             EmployeeSalary = "1000",
+            Deparments=Departments.IT,
             Address = new Address
             {
                 EmployeeStreet = "1, Main Road",
@@ -32,6 +34,7 @@ namespace PracticeCSharp.JsonSerializationAndDeserialization.MockData
             EmployeeId = 2,
             EmployeeName = "Ravi",
             EmployeeSalary = "2000",
+            Deparments= Departments.HR,
             Address = new Address
             {
                 EmployeeStreet = "12, Gandhi Street",
@@ -45,6 +48,7 @@ namespace PracticeCSharp.JsonSerializationAndDeserialization.MockData
             EmployeeId = 3,
             EmployeeName = "Priya",
             EmployeeSalary = "1500",
+            Deparments= Departments.HR,
             Address = new Address
             {
                 EmployeeStreet = "45, Anna Nagar",
@@ -58,6 +62,7 @@ namespace PracticeCSharp.JsonSerializationAndDeserialization.MockData
             EmployeeId = 4,
             EmployeeName = "Karthik",
             EmployeeSalary = "2500",
+            Deparments= Departments.Finance,
             Address = new Address
             {
                 EmployeeStreet = "23, MG Road",
@@ -71,6 +76,7 @@ namespace PracticeCSharp.JsonSerializationAndDeserialization.MockData
             EmployeeId = 5,
             EmployeeName = "Anitha",
             EmployeeSalary = "1800",
+            Deparments= Departments.Admin,
             Address = new Address
             {
                 EmployeeStreet = "78, Poonamallee High Road",
