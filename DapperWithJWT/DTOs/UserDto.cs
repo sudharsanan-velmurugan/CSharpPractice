@@ -1,15 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace DapperWithJWT.Models
+namespace DapperWithJWT.DTOs
 {
     [Table("users")]
-    public class User
+    public class UserDto
     {
-        [Key]
-        [Column("id")]
-        public int Id { get; set; }
-
         [Required]
         [Column("user_name")]
         public string UserName { get; set; }

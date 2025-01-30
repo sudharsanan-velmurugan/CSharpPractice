@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCSharp", "PracticeCSharp.csproj", "{7139EF59-AE09-4D92-AB84-1B09A83262B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTPractice", "..\JWTPractice\JWTPractice.csproj", "{D5B9DCE8-CF69-4661-B576-21FE0DB70BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperWithJWT", "..\DapperWithJWT\DapperWithJWT.csproj", "{9288896F-BDC9-403C-9725-6F3BB83EE479}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D5B9DCE8-CF69-4661-B576-21FE0DB70BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5B9DCE8-CF69-4661-B576-21FE0DB70BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5B9DCE8-CF69-4661-B576-21FE0DB70BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9288896F-BDC9-403C-9725-6F3BB83EE479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9288896F-BDC9-403C-9725-6F3BB83EE479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9288896F-BDC9-403C-9725-6F3BB83EE479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9288896F-BDC9-403C-9725-6F3BB83EE479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

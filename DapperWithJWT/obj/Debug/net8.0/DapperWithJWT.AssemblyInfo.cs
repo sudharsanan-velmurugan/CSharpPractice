@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperWithJWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa314a430162227b4ad33c489a69646ec8ccf75e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5954341b1c455dfbcfba1b435afd5d43910c925")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperWithJWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperWithJWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
