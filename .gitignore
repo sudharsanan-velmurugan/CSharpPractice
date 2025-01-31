@@ -1,3 +1,6 @@
 
 *.vsidx
 *.bin
+*.dll
+*.pdb
+*.json

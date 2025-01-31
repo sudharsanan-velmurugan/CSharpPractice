@@ -20,9 +20,25 @@ namespace DapperWithJWT.Controllers
             _authService = authService;
             _repo = repo;
         }
+        [Authorize(Roles ="hr")]
+        [HttpGet("GetAll")]
+        public async Task<ActionResult<List<UserDto>>> Get()
+        {
+            var result = await _repo.Get();
+            return Ok(result);
+        }
+
+       [Authorize(Roles = "admin")]
+        [HttpGet("GetHr")]
+        public async Task<ActionResult<List<UserDto>>> GetHr()
+        {
+            var result = await _repo.Get();
+            var hr = result.Where(x => x.Role == "hr").ToList();
+            return Ok(hr);
+        }
         [Authorize]
-        [HttpGet]
-        public async Task<ActionResult<List<User>>> Get()
+        [HttpGet("GetUsers")]
+        public async Task<ActionResult<List<UserDto>>> GetUsers()
         {
             var result = await _repo.Get();
             return Ok(result);

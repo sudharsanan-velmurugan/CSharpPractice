@@ -5,7 +5,7 @@ namespace DapperWithJWT.Repository
 {
     public interface IUserRepository
     {
-        Task<List<User>> Get();
+        Task<List<UserDto>> Get();
 
         Task<User> Register(UserDto userDto);
 
